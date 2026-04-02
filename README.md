@@ -18,14 +18,14 @@ I focus on creating fun puzzle games and improving my skills step by step.
 ## 🎮 Projects
 * Contruck 3 (Puzzle Game)
 
-## 📫 Contact Me
+## 📫 Contact
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="20"/> 
-  <a href="https://www.instagram.com/fariizalcihuy?igsh=MXQ0dWh0bmhqMWI3Mg==">@fariizal</a>
-</p>
+<a href="https://www.instagram.com/fariizalcihuy?igsh=MXQ0dWh0bmhqMWI3Mg==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<br> 
+<br> 
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="20"/> 
-  <a href="https://www.tiktok.com/@aturner748?_r=1&_t=ZS-95COdC29yvh">@Z4L</a>
-</p>
+<a href="https://www.tiktok.com/@aturner748?_r=1&_t=ZS-95COdC29yvh">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
