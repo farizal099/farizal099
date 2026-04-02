@@ -6,7 +6,7 @@ Still learning and growing every day.
 
 ## 📫 Contact Me
 
+## 📫 Contact Me
 
-- [![Instagram](https://www.instagram.com/fariizalcihuy?igsh=MXQ0dWh0bmhqMWI3Mg==)](https://instagram.com/@fariizalcihuy)
-- [![TikTok](https://www.tiktok.com/@aturner748?_r=1&_t=ZS-95COdC29yvh)](https://tiktok.com/@aturner748)
-
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg)](https://instagram.com/@fariizalcihuy)
+[![TikTok](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg)](https://tiktok.com/@aturner748)
