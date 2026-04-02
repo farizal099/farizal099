@@ -17,7 +17,7 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JmXj5pFuj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fariizalcihuy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aturner748) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Farizzald86799) 
 </p>
 
-<b>My GitHub Stats</b>
+## 📈 My GitHub Stats
 
 <a href="http://www.github.com/farizal099"><img src="https://github-readme-streak-stats.herokuapp.com/?user=farizal099&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
