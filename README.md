@@ -8,7 +8,7 @@ Still learning and growing every day.
 
 ## 📫 Contact Me
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="20"style="filter: invert(41%) sepia(93%) saturate(749%) hue-rotate(314deg);/> 
   <a href="https://www.instagram.com/fariizalcihuy?igsh=MXQ0dWh0bmhqMWI3Mg==">@fariizal</a>
 </p>
 
