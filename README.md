@@ -5,7 +5,7 @@ I'm a Web & Game Developer who loves turning ideas into interactive experiences.
 I enjoy building engaging games and creating modern, user-friendly websites.
 Currently, I'm focused on improving my skills, exploring new technologies, and turning creative ideas into real projects.
 * 🌍  I'm based in INDONESIA / JAMBI
-* ✉️  You can contact me at 📩 [farizzaldn@gmail.com](mailto:callmeefarizal@gmail.com)
+* ✉️  You can contact me at 📩 [callmeefarizal@gmail.com](mailto:callmeefarizal@gmail.com)
 
 ## 🌐 Socials Media
 
