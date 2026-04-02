@@ -1,8 +1,8 @@
 # 👋 Hi, I'm R. Farizal Abidin
 
-*Web & Game Developer
-*I love creating games and building modern websites
-*Still learning and growing every day
+<p>💻 Web & Game Developer</p>
+<p>🎮 I love creating games and building modern websites</p>
+<p>📚 Still learning and growing every day</p>
 
 ## 🚀 About Me
 
