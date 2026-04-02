@@ -29,3 +29,9 @@ I focus on creating fun puzzle games and improving my skills step by step.
 <a href="https://www.tiktok.com/@aturner748?_r=1&_t=ZS-95COdC29yvh">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
+<br> 
+<br> 
+
+<a href="https://discord.gg/JmXj5pFuj">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
