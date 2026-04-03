@@ -54,5 +54,5 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 </ul>
 
-## ✨Contributions in the last year
+## ✨ Contributions in the last year
 ![snake gif](https://raw.githubusercontent.com/farizal099/farizal099/output/github-contribution-grid-snake.svg)
