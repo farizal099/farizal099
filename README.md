@@ -20,10 +20,27 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 ## 📈 My GitHub Stats
 
-<a href="http://www.github.com/farizal099"><img src="https://github-readme-streak-stats.herokuapp.com/?user=farizal099&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table>
+<tr>
+<td width="60%">
+
+<a href="http://www.github.com/farizal099">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farizal099&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizal099&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizal099&theme=github_dark)
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://raw.githubusercontent.com/farizal099/farizal099/90e4d9c6142c4312ea26c11c17399437b6c3e4c0/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
