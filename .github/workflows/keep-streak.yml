@@ -1,0 +1,31 @@
+name: Keep GitHub Streak Alive
+
+on:
+  schedule:
+    # Menjalankan tiap hari jam 9 pagi UTC
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  commit-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config user.name "farizal099"
+          git config user.email "EMAIL_GITHUB_KAMU"
+
+      - name: Create dummy file to keep streak
+        run: |
+          echo "Keep streak alive $(date)" >> streak.txt
+
+      - name: Commit changes
+        run: |
+          git add streak.txt
+          git commit -m "Daily commit to keep streak alive" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
