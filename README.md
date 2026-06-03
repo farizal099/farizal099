@@ -15,33 +15,69 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,unity,godot)](https://skillicons.dev)
+<p>
+  <a href="https://luau.org/">
+    <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Luau" />
+  </a>
+  <a href="https://create.roblox.com/docs/studio">
+    <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="Roblox Studio" />
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+  </a>
+  <a href="https://godotengine.org/">
+    <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
+  </a>
+  <a href="https://www.blender.org/">
+    <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Adobe Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
+  </a>
+</p>
 
-**Other Tools:** Construct 3, Scratch.
+<p>
+  <a href="https://scratch.mit.edu/">
+    <img src="https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" />
+  </a>
+  <a href="https://www.construct.net/">
+    <img src="https://img.shields.io/badge/Construct_3-00BFFF?style=for-the-badge&logo=construct3&logoColor=white" alt="Construct 3" />
+  </a>
+  <a href="https://www.graphisoft.com/solutions/archicad">
+    <img src="https://img.shields.io/badge/Archicad-2D50A5?style=for-the-badge&logo=archicad&logoColor=white" alt="Archicad" />
+  </a>
+  <a href="https://www.aseprite.org/">
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+  </a>
+</p>
+
 
 ## 📈 My GitHub Stats
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-<a href="http://www.github.com/farizal099">
-<img src="https://streak-stats.demolab.com?user=farizal099&theme=dark&hide_border=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizal099&theme=github_dark" width="100%" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farizal099&theme=github_dark)
+<br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizal099&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farizal099&theme=github_dark" width="100%" />
 
 </td>
 
-<td width="40%" align="right">
+<td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/farizal099/farizal099/90e4d9c6142c4312ea26c11c17399437b6c3e4c0/giphy.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/farizal099/farizal099/90e4d9c6142c4312ea26c11c17399437b6c3e4c0/giphy.gif" width="260" />
 
 </td>
 </tr>
 </table>
+
+
 
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
