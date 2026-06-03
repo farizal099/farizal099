@@ -15,7 +15,9 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,html,css,figma,ps,laravel,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,unity,godot)](https://skillicons.dev)
+
+**Other Tools:** Construct 3, Scratch.
 
 ## 📈 My GitHub Stats
 
