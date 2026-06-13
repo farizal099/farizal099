@@ -26,6 +26,9 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
   <a href="https://create.roblox.com/docs/studio">
     <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="Roblox Studio" />
   </a>
+  <a href="https://www.construct.net/">
+    <img src="https://www.google.com/s2/favicons?domain=construct.net&sz=128" width="48" height="48" alt="Construct 3" />
+  </a>
 </p>
 
 ### ⚙️ Programming Languages
