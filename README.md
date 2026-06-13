@@ -15,51 +15,49 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 ## 💻 Tech Stack:
 
+### 🎮 Game Development
 <p>
-  <a href="https://luau.org/">
-    <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Luau" />
-  </a>
-  <a href="https://create.roblox.com/docs/studio">
-    <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="Roblox Studio" />
-  </a>
   <a href="https://unity.com/">
     <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
   </a>
   <a href="https://godotengine.org/">
     <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
   </a>
+  <a href="https://create.roblox.com/docs/studio">
+    <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="Roblox Studio" />
+  </a>
+</p>
+
+### ⚙️ Programming Languages
+<p>
+  <a href="https://luau.org/">
+    <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Luau" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  </a>
+</p>
+
+### 🎨 Art & Design
+<p>
+  <a href="https://www.aseprite.org/">
+    <img src="https://www.google.com/s2/favicons?domain=aseprite.org&sz=128" width="48" height="48" alt="Aseprite" />
+  </a>
   <a href="https://www.blender.org/">
     <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Adobe Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
-  </a>
-  <a href="https://flutter.dev/">
-    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-  </a>
+</p>
+
+### 🛠️ Tools & Others
+<p>
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   </a>
   <a href="https://antigravity.google">
     <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" width="48" height="48" alt="Google Antigravity" />
   </a>
-</p>
-
-<p>
-  <a href="https://scratch.mit.edu/">
-    <img src="https://www.google.com/s2/favicons?domain=scratch.mit.edu&sz=128" width="48" height="48" alt="Scratch" />
-  </a>
-  <a href="https://www.construct.net/">
-    <img src="https://www.google.com/s2/favicons?domain=construct.net&sz=128" width="48" height="48" alt="Construct 3" />
-  </a>
-  <a href="https://www.graphisoft.com/solutions/archicad">
-    <img src="https://www.google.com/s2/favicons?domain=graphisoft.com&sz=128" width="48" height="48" alt="Archicad" />
-  </a>
-  <a href="https://www.aseprite.org/">
-    <img src="https://www.google.com/s2/favicons?domain=aseprite.org&sz=128" width="48" height="48" alt="Aseprite" />
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
   </a>
 </p>
 
