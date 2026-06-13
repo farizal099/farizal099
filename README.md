@@ -17,46 +17,46 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 ### 🎮 Game Development
 <p>
-  <a href="https://unity.com/">
+  <a href="https://unity.com/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
   </a>
-  <a href="https://godotengine.org/">
+  <a href="https://godotengine.org/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
   </a>
-  <a href="https://create.roblox.com/docs/studio">
+  <a href="https://create.roblox.com/docs/studio" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="Roblox Studio" />
   </a>
-  <a href="https://www.construct.net/">
+  <a href="https://www.construct.net/" style="text-decoration: none;">
     <img src="https://www.google.com/s2/favicons?domain=construct.net&sz=128" width="48" height="48" alt="Construct 3" />
   </a>
 </p>
 
 ### ⚙️ Programming Languages
 <p>
-  <a href="https://luau.org/">
+  <a href="https://luau.org/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Luau" />
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   </a>
 </p>
 
 ### 🎨 Art & Design
 <p>
-  <a href="https://www.aseprite.org/">
+  <a href="https://www.aseprite.org/" style="text-decoration: none;">
     <img src="https://www.google.com/s2/favicons?domain=aseprite.org&sz=128" width="48" height="48" alt="Aseprite" />
   </a>
-  <a href="https://www.blender.org/">
+  <a href="https://www.blender.org/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
   </a>
 </p>
 
 ### 🛠️ Tools & Others
 <p>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   </a>
-  <a href="https://flutter.dev/">
+  <a href="https://flutter.dev/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
   </a>
 </p>
