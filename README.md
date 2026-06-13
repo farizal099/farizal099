@@ -50,19 +50,18 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
 
 <p>
   <a href="https://scratch.mit.edu/">
-    <img src="https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" />
+    <img src="https://www.google.com/s2/favicons?domain=scratch.mit.edu&sz=128" width="48" height="48" alt="Scratch" />
   </a>
   <a href="https://www.construct.net/">
-    <img src="https://img.shields.io/badge/Construct_3-00BFFF?style=for-the-badge&logo=construct3&logoColor=white" alt="Construct 3" />
+    <img src="https://www.google.com/s2/favicons?domain=construct.net&sz=128" width="48" height="48" alt="Construct 3" />
   </a>
   <a href="https://www.graphisoft.com/solutions/archicad">
-    <img src="https://img.shields.io/badge/Archicad-2D50A5?style=for-the-badge&logo=archicad&logoColor=white" alt="Archicad" />
+    <img src="https://www.google.com/s2/favicons?domain=graphisoft.com&sz=128" width="48" height="48" alt="Archicad" />
   </a>
   <a href="https://www.aseprite.org/">
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+    <img src="https://www.google.com/s2/favicons?domain=aseprite.org&sz=128" width="48" height="48" alt="Aseprite" />
   </a>
 </p>
-
 
 ## 📈 My GitHub Stats
 
