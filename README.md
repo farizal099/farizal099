@@ -37,6 +37,15 @@ Currently, I'm focused on improving my skills, exploring new technologies, and t
   <a href="https://www.adobe.com/products/illustrator.html">
     <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
   </a>
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  </a>
+  <a href="https://antigravity.google">
+    <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" width="48" height="48" alt="Google Antigravity" />
+  </a>
 </p>
 
 <p>
